@@ -16,9 +16,9 @@ let und;
 console.log(und);
 
 const obj = {
-    name: 'Jonh',
-    age: 25,
-    isMarried: false
+	name: 'Jonh',
+	age: 25,
+	isMarried: false
 };
 
 /* console.log(obj.name); */
