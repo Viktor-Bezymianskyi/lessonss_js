@@ -44,8 +44,10 @@ const numbers = {
 const newNumbers = copy(numbers);
 
 newNumbers.a = 10;
+newNumbers.c.x = 9;
 
 console.log(newNumbers);
+console.log(numbers);
 
 const add = {
 	d: 17,
