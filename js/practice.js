@@ -1,6 +1,6 @@
 'use strict';
 
-//let x = 5; alert( x++ );
+/* //let x = 5; alert( x++ );
 
 //[] + false - null + true // 'NaN'
 
@@ -28,4 +28,19 @@ a = [1, 2, 3]; b = [1, 2, 3]; Правда ли что a == b
 
 Верно ли сравнение: "Ёжик" > "яблоко" // false см таблицу юникода
 
-Чему равно 0 || "" || 2 || undefined || true || falsе // 2
+Чему равно 0 || "" || 2 || undefined || true || falsе // 2 */
+
+/* function Person(first, last, age, gender, interests) {
+
+	// Определения методов и свойств
+	this.name = {
+		'first': first,
+		'last' : last
+	};
+	this.age = age;
+	this.gender = gender;
+	//...см. Введение в объекты для полного определения
+}
+
+let person1 = new Person('Bob', 'Smith', 32, 'male', ['music', 'skiing']);
+ */
